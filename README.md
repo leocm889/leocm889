@@ -6,7 +6,7 @@
 
 - 👨‍💻 I do full-stack development and mobile apps
 - 🎥 I create content on computer science and self-improvement
-- 🎯 I'm currently learning the Rust and low level programming
+- 🎯 I'm currently learning Rust and low level programming
 - 🧩 I enjoy solving problems and building systems from scratch
 
 ## 🧠 My Knowledge
