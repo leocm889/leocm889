@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner/banner.png" alt="Leonardo Castillo" width="200" />
-</p>
+![Banner](./assets/banner/banner.png)
 
 # 👋 Salam, I'm Leonardo Castillo
 
